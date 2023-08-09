@@ -27,10 +27,12 @@ Target of project: change color hair of Person with image
 ## Test
 
 - link test with colab: https://colab.research.google.com/drive/10OjPzPyq-buSWF2cyrEbfevP_QwWNH_6?usp=sharing
-- Test with Matplotlib
+- Test with Matplotlib:
+
 ![image](https://github.com/khanhngt/color_hair/assets/117704439/0cc685f3-3f9c-4d2b-ab52-721f6d8ee6f0)
 
 
 - Test with Gradio on Colab:
+
 ![image](https://github.com/khanhngt/color_hair/assets/117704439/b2ad6590-4da9-4888-b24b-061da04e446b)
 
