@@ -21,7 +21,8 @@ Target of project: change color hair of Person with image
 
 ![image](https://github.com/khanhngt/color_hair/assets/117704439/ffe7cb45-5432-492d-9963-939b68d998c8)
 
-- link train with colab: https://colab.research.google.com/drive/1OpZgZ54OCduYMfMfCQOz9eivYi7FALO8?usp=sharing
+- link train with colab:
+  + https://colab.research.google.com/drive/1OpZgZ54OCduYMfMfCQOz9eivYi7FALO8?usp=sharing
 
 ## Test
 
