@@ -36,3 +36,4 @@ Target of project: change color hair of Person with image
 
 ![image](https://github.com/khanhngt/color_hair/assets/117704439/b2ad6590-4da9-4888-b24b-061da04e446b)
 
+- Link demo: https://huggingface.co/spaces/KhanhVan/myspace
